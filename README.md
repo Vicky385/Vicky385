@@ -7,7 +7,7 @@ JAVA Developer || SAG Webmethods Developer
 I’m a dedicated and motivated technical Post-graduate with having a deep interest in designing, building, and maintaining Java based applications & websites.
 
 * 🌍  I'm based in Delhi,India
-* 🖥️  See my portfolio at [GitHub Profile](http://github.com/Vicky385)
+* 🖥️  See my portfolio at [LeetCode Profile](https://leetcode.com/Vijender_Kumar/)
 * ✉️  You can contact me at [vijbirhman2017@gmail.com](mailto:vijbirhman2017@gmail.com)
 * 🧠  I'm learning SpringBoot, Hibernate
 
