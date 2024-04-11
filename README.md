@@ -35,7 +35,7 @@ I’m a dedicated and motivated technical Post-graduate with a deep interest in 
 
 <a href="http://www.github.com/Vijender-Kumar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijender-Kumar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Vijender-Kumar"><img src="https://activity-graph.herokuapp.com/graph?username=Vijender-Kumar&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijender-Kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Support Me
 
