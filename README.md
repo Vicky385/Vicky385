@@ -16,7 +16,6 @@ I’m a dedicated and motivated technical Post-graduate with a deep interest in 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/postman-api.png" width="36" height="36" alt="Postman" /></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="36" height="36" alt="Node.js" /></a>
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="36" height="36" alt="SQL" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="36" height="36" alt="Visual Studio Code" /></a>
